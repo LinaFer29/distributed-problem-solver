@@ -1,0 +1,11 @@
+
+--------- PROBLEM SOLVER APPLICATION ---------
+
+Sending request to problemSolver
+
+Response to solution received
+
+Saving Data
+
+Printing results of the problem solver
+

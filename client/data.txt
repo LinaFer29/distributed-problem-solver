@@ -1,0 +1,10 @@
+141 Fizz
+393 Fizz
+268 268
+263 263
+395 Buzz
+310 Buzz
+203 203
+285 FizzBuzz
+183 Fizz
+387 Fizz
